@@ -1,0 +1,19 @@
+{
+  "name": "bamtrading",
+  "version": "1.0.0",
+  "description": "wholesale and supply api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sycasec/bamtrading.git"
+  },
+  "author": "sycasec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sycasec/bamtrading/issues"
+  },
+  "homepage": "https://github.com/sycasec/bamtrading#readme"
+}
