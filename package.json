@@ -4,7 +4,8 @@
   "description": "wholesale and supply api",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/sycasec/bamtrading/issues"
   },
-  "homepage": "https://github.com/sycasec/bamtrading#readme"
+  "homepage": "https://github.com/sycasec/bamtrading#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "pg": "^8.8.0"
+  }
 }
